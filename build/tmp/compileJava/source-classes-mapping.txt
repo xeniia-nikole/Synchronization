@@ -1,8 +1,0 @@
-task1/Car.java
- task1.Car
-task1/Main.java
- task1.Main
-task1/Showroom.java
- task1.Showroom
-task1/Customer.java
- task1.Customer
